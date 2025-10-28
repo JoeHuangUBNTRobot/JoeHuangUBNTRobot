@@ -1,7 +1,1 @@
-👋 Hi, I’m Joe Huang
-👀 I’m interested in Robotics especially mobile robot like AMR,self driving car etc
-📫 How to reach me -> joe.huang@ui.com
-
-profile-3d-contrib/profile-customize.svg
-
-
+![](./profile-3d-contrib/profile-green-animate.svg)
